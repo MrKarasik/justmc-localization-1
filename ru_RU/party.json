@@ -1,3 +1,17 @@
 {
-  "party.created" : "Пати создано"
+  "party.created": "Пати создано",
+  "party.player_in_party": "",
+  "party.player_invited": "{player}",
+  "party.you_are_invited": "{player}",
+  "party.you_are_not_invited": "",
+  "party.broadcast.player_joined": "{player}",
+  "party.you_cancelled_invitation": "",
+  "party.no_access": "",
+  "party.you_are_kicked": "",
+  "party.player_kicked": "{player}",
+  "party.you_are_leader": "",
+  "party.left": "{player}",
+  "party.new_leader": "{player}",
+  "party.you_are_new_leader": "",
+  "party.help": ""
 }
